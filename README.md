@@ -18,6 +18,9 @@ The user selects whether to include:
   1. Uppercase letters (A-Z)
   2. Digits (0-9)
   3. Special characters (!, @, #, etc.)
+
 The program ensures that at least one selected character type is included.
+
 The password is generated and shuffled to enhance security.
+
 The final password is displayed on the screen.
