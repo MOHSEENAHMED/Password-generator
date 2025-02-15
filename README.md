@@ -12,6 +12,7 @@ Features
 4. Uses random.shuffle() to ensure password randomness
 
 How It Works
+
 The user inputs the desired password length (must be greater than 4).
 The user selects whether to include:
   1. Uppercase letters (A-Z)
